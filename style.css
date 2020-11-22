@@ -1,0 +1,44 @@
+.header{
+    width: 100%;
+    text-align: left;
+}
+
+.header h3{
+    display: inline;
+}
+
+.header button{
+   float: right; 
+   border: solid 1px white;
+}
+
+
+
+#start,#status{
+    font-size: 22px;
+}
+
+
+h4{
+    background-color:white;
+    line-height: 2;
+    margin: 0px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border-radius: 10px;
+    border: solid black 2px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color:white ;
+    color: cornflowerblue;
+    line-height: 3;
+    text-align:center ;
+    width: 100%;
+    bottom: 0;
+}
